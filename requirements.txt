@@ -1,0 +1,7 @@
+streamlit
+pandas<2.0.0
+plotly
+matplotlib
+wordcloud
+emoji
+numpy==1.25.2
